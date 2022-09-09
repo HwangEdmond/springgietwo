@@ -1,0 +1,6 @@
+hqlimit.minimum=1
+hqlimit.maximum=999
+
+
+zslimit.minimum=9
+zslimit.maximum=998
